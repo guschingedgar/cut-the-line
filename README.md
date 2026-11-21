@@ -2,8 +2,6 @@
 
 Real-time protection against phone scams and AI-cloned voices: it listens to calls from unknown numbers, scores the risk live, and steps in during the call.
 
-![Cut the Line app: incoming unknown call, scam alert, caller on hold, 4-digit identity check]
-
 
 
 https://github.com/user-attachments/assets/a01cb39e-28bd-4399-ac97-c6d8b8e0bd31

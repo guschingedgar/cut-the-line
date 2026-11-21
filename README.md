@@ -4,6 +4,12 @@ Real-time protection against phone scams and AI-cloned voices: it listens to cal
 
 ![Cut the Line app: incoming unknown call, scam alert, caller on hold, 4-digit identity check](docs/hero.png)
 
+
+
+https://github.com/user-attachments/assets/a01cb39e-28bd-4399-ac97-c6d8b8e0bd31
+
+
+
 ## Why we built it
 
 Phone scams aimed at older people follow the same script: a grandchild in trouble, a fake bank advisor, a fake police officer, always pushing for an urgent and secret payment. A few seconds of public audio are now enough to clone a voice, and caller ID can be spoofed. Spam filters act before the call and bank checks act after the payment. Nothing protects the conversation itself.
